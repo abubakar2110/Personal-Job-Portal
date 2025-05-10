@@ -1,0 +1,11 @@
+scrapy → for the spider framework (web scraping engine)
+
+selenium → for browser automation (interacting with dynamic pages)
+
+fake_useragent → to randomize User-Agent headers (to mimic real browsers)
+
+python-dotenv → to load .env variables like username and password securely
+
+urllib.parse → (built-in) for urljoin (building full URLs)
+
+time, random, os → (built-in) for delays, randomization, and system operations
